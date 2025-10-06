@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+E:\vslearning\Project7\Project7\FileName.cpp(19,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+E:\vslearning\Project7\Project7\FileName.cpp(20,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  Project7.vcxproj -> E:\vslearning\Project7\x64\Debug\Project7.exe

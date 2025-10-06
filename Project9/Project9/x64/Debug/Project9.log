@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+E:\vslearning\Project9\Project9\FileName.cpp(9,1): error C2059: 语法错误:“}”
+E:\vslearning\Project9\Project9\FileName.cpp(9,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\vslearning\Project9\Project9\FileName.cpp(10,8): warning C4305: “初始化”: 从“int”到“char”截断
+E:\vslearning\Project9\Project9\FileName.cpp(10,10): warning C4309: “初始化”: 截断常量值
+E:\vslearning\Project9\Project9\FileName.cpp(11,15): error C2065: “a”: 未声明的标识符
+E:\vslearning\Project9\Project9\FileName.cpp(18,5): error C2601: “main”: 本地函数定义是非法的
+E:\vslearning\Project9\Project9\FileName.cpp(51,1): error C1004: 发现意外的文件尾
